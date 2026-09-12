@@ -1,3 +1,15 @@
+<!-- ===== ULAMANDER / MIGUEL GRANADOS FORK BANNER ===== -->
+<p align="center">
+  <a href="https://github.com/MiguelGranado/ulamander-voice-lab"><img src="https://img.shields.io/badge/Part_of-Ulamander_Voice_Lab-fe702d?style=for-the-badge&labelColor=0d1117" alt="Ulamander Voice Lab"/></a>
+  <a href="https://github.com/MiguelGranado"><img src="https://img.shields.io/badge/Fork_by-Miguel_Granados-0d1117?style=for-the-badge&logo=github" alt="Miguel"/></a>
+  <a href="https://github.com/MiguelGranado/ebook2audiobook/stargazers"><img src="https://img.shields.io/github/stars/MiguelGranado/ebook2audiobook?style=for-the-badge&color=fe702d&labelColor=0d1117" alt="Stars"/></a>
+</p>
+
+> **Fork note:** Upstream is [`DrewThomasson/ebook2audiobook`](https://github.com/DrewThomasson/ebook2audiobook). Maintained as part of **Ulamander Voice Lab** by Miguel Granados.  
+> ⭐ Star this fork **and** [`ulamander-voice-lab`](https://github.com/MiguelGranado/ulamander-voice-lab) if it helps your voice / TTS work.
+
+---
+
 # 📚 ebook2audiobook (E2A)
 CPU/GPU Converter from E-Book to audiobook with chapters and metadata<br/>
 using advanced TTS engines and much more.<br/>
